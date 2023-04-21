@@ -22,4 +22,6 @@ Para tal efecto, este documento tiene las siguientes secciones:
 7. Comparación Gráfica
 8. Conclusiones
 
+Como resultado de la aplicación de los referidos algorítmos de similaridad, se encontró lo siguiente: 
 
+[!Resultados](https://github.com/RodGuarneros/vectorial_space_cosin_similarity_plagiarism/blob/main/Comparativo.png)
